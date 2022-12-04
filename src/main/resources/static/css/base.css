@@ -1,0 +1,8 @@
+@font-face {
+    font-family: FredokaOne-Regular;
+    src: url('../fonts/FredokaOne-Regular.ttf');
+}
+
+body {
+    font-family: FredokaOne-Regular;
+}

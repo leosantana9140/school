@@ -1,0 +1,21 @@
+body {
+    background-color: #F1E4C9;
+}
+
+.form {
+    width: 30rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .map {
+        width: 95vw;
+        height: 65vh;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .map {
+        width: 60vw;
+        height: 65vh;
+    }
+}
